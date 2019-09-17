@@ -1,0 +1,5 @@
+---
+applications:
+- name: BT21Restaurant-App
+  memory: 512M
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack
